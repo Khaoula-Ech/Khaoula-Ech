@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome 👋
+
+* ✨I'm Khaoula Echine
+* 📊 Data science and business intelligence enthusiast
+* 🎓I'm currently a Master's student at faculty of sciences and technologies
 
 <!--
 **Khaoula-Ech/Khaoula-Ech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
